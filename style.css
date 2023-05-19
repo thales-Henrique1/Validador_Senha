@@ -1,0 +1,55 @@
+body{
+    background-color: white;
+    
+}
+
+.valid {
+    color: green;
+  }
+  
+  .invalid {
+    color: red;
+  }
+
+#azul{
+    background-color: rgba(109, 109, 250, 0.384);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.formulario{
+    border-bottom: 1px solid #9e9d9d;
+    border-left:1px solid #9e9d9d; 
+    border-top: 1px solid #9e9d9d;
+    border-right: 1px solid #9e9d9d;
+    width: 500px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#cent{
+    text-align: center;
+}
+#img{
+    height: 150px;
+}
+#confirmacao{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#password, #confirmPassword{
+    width: 450px;
+    border-radius: 5px;
+    height: 25px;
+    margin-bottom: 10px;
+
+} 
+#botao{
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+#div1{
+margin-left: 25px;
+}
